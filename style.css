@@ -1,0 +1,17 @@
+body{
+    display:flex;
+    justify-content:start;
+    align-items: center;
+    padding-top:100px;
+    background-color:burlywood;
+    
+}
+table{
+    text-align: center;
+    border:2px solid white;
+    border-color:black;
+    border-style:dashed;
+    border-width:solid;
+    border-collapse:collapse;
+    background-color: aqua;
+}
